@@ -1,0 +1,12 @@
+{
+  "name": "jstemplate",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "dc.js": "~1.7.1",
+    "jquery.layout-latest": "http://layout.jquery-dev.com/lib/js/jquery.layout-latest.js",
+    "layout-default-latest": "http://layout.jquery-dev.com/lib/css/layout-default-latest.css",
+    "jquery-ui": "~1.11.1"
+  },
+  "devDependencies": {}
+}
